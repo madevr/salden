@@ -22,3 +22,4 @@ If you don't think the approach outlined in 1. is secure, or not secure enough f
 Instead, you can enter a passphrase which will directly be used to encrypt the database. This passphrase is never stored, and thus has to be entered whenever you open Salden. 
 
 If you choose this option, Salden cannot notify you about new transactions, because it cannot decrypt its database on its own.
+
